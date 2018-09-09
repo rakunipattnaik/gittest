@@ -1,2 +1,3 @@
 Hello !! I am Rakesh
 I am generating a new way of working with encrypted password for all the people who are working on this project by taking the fork
+Changes addition - Version 3.0
